@@ -1,5 +1,5 @@
 
-# 📘 Fake News Detection - README
+# 📘 Fake News Detection 
 
 ## 🎯 Objective
 This assignment aims to develop a **Semantic Classification model** to distinguish between true and fake news articles. Using the **Word2Vec** method, we capture semantic relations and apply supervised learning models to classify news based on meaning rather than syntax.
